@@ -1,0 +1,20 @@
+DAY 58 / TASK 11 STATUS
+
+Implemented:
+- Embedding model + normalized vector index (FAISS when available)
+- Keyword retrieval baseline
+- Semantic retrieval
+- Hybrid semantic + keyword retrieval
+- Train-only hybrid weight tuning
+- Query-group held-out evaluation
+- Precision@K, Recall@K, MRR, nDCG@K
+- Reproducible JSON experiment log
+- Explainable result reasons
+- FastAPI search endpoint
+- Semantic-model unavailable -> keyword fallback
+- Automated tests
+- Real-data evaluation-label builder from candidates/jobs/interactions
+
+Important:
+The ZIP does not contain fabricated PlaceMux production data or fabricated performance numbers.
+Copy the actual Day 57 CSV files into data/ and run build_eval_from_interactions.py before evaluation.

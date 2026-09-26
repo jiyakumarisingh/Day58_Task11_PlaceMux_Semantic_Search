@@ -1,0 +1,101 @@
+query_id,query,doc_id,label
+job_101,Junior Data Scientist TechNova Python:0.80;SQL:0.75;Machine Learning:0.80;Pandas:0.75 Data & AI,1,1
+job_101,Junior Data Scientist TechNova Python:0.80;SQL:0.75;Machine Learning:0.80;Pandas:0.75 Data & AI,2,0
+job_101,Junior Data Scientist TechNova Python:0.80;SQL:0.75;Machine Learning:0.80;Pandas:0.75 Data & AI,3,0
+job_101,Junior Data Scientist TechNova Python:0.80;SQL:0.75;Machine Learning:0.80;Pandas:0.75 Data & AI,4,0
+job_101,Junior Data Scientist TechNova Python:0.80;SQL:0.75;Machine Learning:0.80;Pandas:0.75 Data & AI,5,1
+job_101,Junior Data Scientist TechNova Python:0.80;SQL:0.75;Machine Learning:0.80;Pandas:0.75 Data & AI,6,0
+job_101,Junior Data Scientist TechNova Python:0.80;SQL:0.75;Machine Learning:0.80;Pandas:0.75 Data & AI,7,0
+job_101,Junior Data Scientist TechNova Python:0.80;SQL:0.75;Machine Learning:0.80;Pandas:0.75 Data & AI,8,1
+job_101,Junior Data Scientist TechNova Python:0.80;SQL:0.75;Machine Learning:0.80;Pandas:0.75 Data & AI,9,0
+job_101,Junior Data Scientist TechNova Python:0.80;SQL:0.75;Machine Learning:0.80;Pandas:0.75 Data & AI,10,1
+job_102,Data Analyst InsightWorks Excel:0.80;SQL:0.75;Power BI:0.80;Data Analysis:0.75 Analytics,1,0
+job_102,Data Analyst InsightWorks Excel:0.80;SQL:0.75;Power BI:0.80;Data Analysis:0.75 Analytics,2,1
+job_102,Data Analyst InsightWorks Excel:0.80;SQL:0.75;Power BI:0.80;Data Analysis:0.75 Analytics,3,0
+job_102,Data Analyst InsightWorks Excel:0.80;SQL:0.75;Power BI:0.80;Data Analysis:0.75 Analytics,4,0
+job_102,Data Analyst InsightWorks Excel:0.80;SQL:0.75;Power BI:0.80;Data Analysis:0.75 Analytics,5,0
+job_102,Data Analyst InsightWorks Excel:0.80;SQL:0.75;Power BI:0.80;Data Analysis:0.75 Analytics,6,1
+job_102,Data Analyst InsightWorks Excel:0.80;SQL:0.75;Power BI:0.80;Data Analysis:0.75 Analytics,7,0
+job_102,Data Analyst InsightWorks Excel:0.80;SQL:0.75;Power BI:0.80;Data Analysis:0.75 Analytics,8,1
+job_102,Data Analyst InsightWorks Excel:0.80;SQL:0.75;Power BI:0.80;Data Analysis:0.75 Analytics,9,0
+job_102,Data Analyst InsightWorks Excel:0.80;SQL:0.75;Power BI:0.80;Data Analysis:0.75 Analytics,10,0
+job_103,Java Backend Developer CodeCraft Java:0.80;Spring Boot:0.75;SQL:0.70;REST API:0.75 Software,1,0
+job_103,Java Backend Developer CodeCraft Java:0.80;Spring Boot:0.75;SQL:0.70;REST API:0.75 Software,2,0
+job_103,Java Backend Developer CodeCraft Java:0.80;Spring Boot:0.75;SQL:0.70;REST API:0.75 Software,3,1
+job_103,Java Backend Developer CodeCraft Java:0.80;Spring Boot:0.75;SQL:0.70;REST API:0.75 Software,4,0
+job_103,Java Backend Developer CodeCraft Java:0.80;Spring Boot:0.75;SQL:0.70;REST API:0.75 Software,5,0
+job_103,Java Backend Developer CodeCraft Java:0.80;Spring Boot:0.75;SQL:0.70;REST API:0.75 Software,6,0
+job_103,Java Backend Developer CodeCraft Java:0.80;Spring Boot:0.75;SQL:0.70;REST API:0.75 Software,7,1
+job_103,Java Backend Developer CodeCraft Java:0.80;Spring Boot:0.75;SQL:0.70;REST API:0.75 Software,8,0
+job_103,Java Backend Developer CodeCraft Java:0.80;Spring Boot:0.75;SQL:0.70;REST API:0.75 Software,9,0
+job_103,Java Backend Developer CodeCraft Java:0.80;Spring Boot:0.75;SQL:0.70;REST API:0.75 Software,10,0
+job_104,Frontend Developer WebSphere HTML:0.75;CSS:0.75;JavaScript:0.80;React:0.80 Software,1,0
+job_104,Frontend Developer WebSphere HTML:0.75;CSS:0.75;JavaScript:0.80;React:0.80 Software,2,0
+job_104,Frontend Developer WebSphere HTML:0.75;CSS:0.75;JavaScript:0.80;React:0.80 Software,3,0
+job_104,Frontend Developer WebSphere HTML:0.75;CSS:0.75;JavaScript:0.80;React:0.80 Software,4,1
+job_104,Frontend Developer WebSphere HTML:0.75;CSS:0.75;JavaScript:0.80;React:0.80 Software,5,0
+job_104,Frontend Developer WebSphere HTML:0.75;CSS:0.75;JavaScript:0.80;React:0.80 Software,6,0
+job_104,Frontend Developer WebSphere HTML:0.75;CSS:0.75;JavaScript:0.80;React:0.80 Software,7,0
+job_104,Frontend Developer WebSphere HTML:0.75;CSS:0.75;JavaScript:0.80;React:0.80 Software,8,0
+job_104,Frontend Developer WebSphere HTML:0.75;CSS:0.75;JavaScript:0.80;React:0.80 Software,9,1
+job_104,Frontend Developer WebSphere HTML:0.75;CSS:0.75;JavaScript:0.80;React:0.80 Software,10,0
+job_105,ML Engineer AI Labs Python:0.85;Machine Learning:0.85;TensorFlow:0.80;NLP:0.75 Data & AI,1,1
+job_105,ML Engineer AI Labs Python:0.85;Machine Learning:0.85;TensorFlow:0.80;NLP:0.75 Data & AI,2,0
+job_105,ML Engineer AI Labs Python:0.85;Machine Learning:0.85;TensorFlow:0.80;NLP:0.75 Data & AI,3,0
+job_105,ML Engineer AI Labs Python:0.85;Machine Learning:0.85;TensorFlow:0.80;NLP:0.75 Data & AI,4,0
+job_105,ML Engineer AI Labs Python:0.85;Machine Learning:0.85;TensorFlow:0.80;NLP:0.75 Data & AI,5,1
+job_105,ML Engineer AI Labs Python:0.85;Machine Learning:0.85;TensorFlow:0.80;NLP:0.75 Data & AI,6,0
+job_105,ML Engineer AI Labs Python:0.85;Machine Learning:0.85;TensorFlow:0.80;NLP:0.75 Data & AI,7,0
+job_105,ML Engineer AI Labs Python:0.85;Machine Learning:0.85;TensorFlow:0.80;NLP:0.75 Data & AI,8,0
+job_105,ML Engineer AI Labs Python:0.85;Machine Learning:0.85;TensorFlow:0.80;NLP:0.75 Data & AI,9,0
+job_105,ML Engineer AI Labs Python:0.85;Machine Learning:0.85;TensorFlow:0.80;NLP:0.75 Data & AI,10,0
+job_106,BI Analyst MarketPulse Excel:0.80;SQL:0.75;Power BI:0.80;Tableau:0.70 Analytics,1,0
+job_106,BI Analyst MarketPulse Excel:0.80;SQL:0.75;Power BI:0.80;Tableau:0.70 Analytics,2,1
+job_106,BI Analyst MarketPulse Excel:0.80;SQL:0.75;Power BI:0.80;Tableau:0.70 Analytics,3,0
+job_106,BI Analyst MarketPulse Excel:0.80;SQL:0.75;Power BI:0.80;Tableau:0.70 Analytics,4,0
+job_106,BI Analyst MarketPulse Excel:0.80;SQL:0.75;Power BI:0.80;Tableau:0.70 Analytics,5,0
+job_106,BI Analyst MarketPulse Excel:0.80;SQL:0.75;Power BI:0.80;Tableau:0.70 Analytics,6,1
+job_106,BI Analyst MarketPulse Excel:0.80;SQL:0.75;Power BI:0.80;Tableau:0.70 Analytics,7,0
+job_106,BI Analyst MarketPulse Excel:0.80;SQL:0.75;Power BI:0.80;Tableau:0.70 Analytics,8,0
+job_106,BI Analyst MarketPulse Excel:0.80;SQL:0.75;Power BI:0.80;Tableau:0.70 Analytics,9,0
+job_106,BI Analyst MarketPulse Excel:0.80;SQL:0.75;Power BI:0.80;Tableau:0.70 Analytics,10,0
+job_107,Cloud Developer CloudCore Java:0.70;AWS:0.80;Docker:0.75;Git:0.80 Cloud,1,0
+job_107,Cloud Developer CloudCore Java:0.70;AWS:0.80;Docker:0.75;Git:0.80 Cloud,2,0
+job_107,Cloud Developer CloudCore Java:0.70;AWS:0.80;Docker:0.75;Git:0.80 Cloud,3,1
+job_107,Cloud Developer CloudCore Java:0.70;AWS:0.80;Docker:0.75;Git:0.80 Cloud,4,0
+job_107,Cloud Developer CloudCore Java:0.70;AWS:0.80;Docker:0.75;Git:0.80 Cloud,5,0
+job_107,Cloud Developer CloudCore Java:0.70;AWS:0.80;Docker:0.75;Git:0.80 Cloud,6,0
+job_107,Cloud Developer CloudCore Java:0.70;AWS:0.80;Docker:0.75;Git:0.80 Cloud,7,1
+job_107,Cloud Developer CloudCore Java:0.70;AWS:0.80;Docker:0.75;Git:0.80 Cloud,8,0
+job_107,Cloud Developer CloudCore Java:0.70;AWS:0.80;Docker:0.75;Git:0.80 Cloud,9,0
+job_107,Cloud Developer CloudCore Java:0.70;AWS:0.80;Docker:0.75;Git:0.80 Cloud,10,0
+job_108,NLP Data Scientist LanguageAI Python:0.80;NLP:0.80;Machine Learning:0.75;SQL:0.70 Data & AI,1,1
+job_108,NLP Data Scientist LanguageAI Python:0.80;NLP:0.80;Machine Learning:0.75;SQL:0.70 Data & AI,2,0
+job_108,NLP Data Scientist LanguageAI Python:0.80;NLP:0.80;Machine Learning:0.75;SQL:0.70 Data & AI,3,0
+job_108,NLP Data Scientist LanguageAI Python:0.80;NLP:0.80;Machine Learning:0.75;SQL:0.70 Data & AI,4,0
+job_108,NLP Data Scientist LanguageAI Python:0.80;NLP:0.80;Machine Learning:0.75;SQL:0.70 Data & AI,5,1
+job_108,NLP Data Scientist LanguageAI Python:0.80;NLP:0.80;Machine Learning:0.75;SQL:0.70 Data & AI,6,0
+job_108,NLP Data Scientist LanguageAI Python:0.80;NLP:0.80;Machine Learning:0.75;SQL:0.70 Data & AI,7,0
+job_108,NLP Data Scientist LanguageAI Python:0.80;NLP:0.80;Machine Learning:0.75;SQL:0.70 Data & AI,8,1
+job_108,NLP Data Scientist LanguageAI Python:0.80;NLP:0.80;Machine Learning:0.75;SQL:0.70 Data & AI,9,0
+job_108,NLP Data Scientist LanguageAI Python:0.80;NLP:0.80;Machine Learning:0.75;SQL:0.70 Data & AI,10,1
+job_109,Full Stack Developer BuildFast JavaScript:0.75;React:0.80;Node.js:0.75;MongoDB:0.70;Git:0.75 Software,1,0
+job_109,Full Stack Developer BuildFast JavaScript:0.75;React:0.80;Node.js:0.75;MongoDB:0.70;Git:0.75 Software,2,0
+job_109,Full Stack Developer BuildFast JavaScript:0.75;React:0.80;Node.js:0.75;MongoDB:0.70;Git:0.75 Software,3,0
+job_109,Full Stack Developer BuildFast JavaScript:0.75;React:0.80;Node.js:0.75;MongoDB:0.70;Git:0.75 Software,4,1
+job_109,Full Stack Developer BuildFast JavaScript:0.75;React:0.80;Node.js:0.75;MongoDB:0.70;Git:0.75 Software,5,0
+job_109,Full Stack Developer BuildFast JavaScript:0.75;React:0.80;Node.js:0.75;MongoDB:0.70;Git:0.75 Software,6,0
+job_109,Full Stack Developer BuildFast JavaScript:0.75;React:0.80;Node.js:0.75;MongoDB:0.70;Git:0.75 Software,7,0
+job_109,Full Stack Developer BuildFast JavaScript:0.75;React:0.80;Node.js:0.75;MongoDB:0.70;Git:0.75 Software,8,0
+job_109,Full Stack Developer BuildFast JavaScript:0.75;React:0.80;Node.js:0.75;MongoDB:0.70;Git:0.75 Software,9,1
+job_109,Full Stack Developer BuildFast JavaScript:0.75;React:0.80;Node.js:0.75;MongoDB:0.70;Git:0.75 Software,10,0
+job_110,Data Science Intern DataBridge Python:0.70;SQL:0.65;Pandas:0.70;Statistics:0.65 Data & AI,1,1
+job_110,Data Science Intern DataBridge Python:0.70;SQL:0.65;Pandas:0.70;Statistics:0.65 Data & AI,2,1
+job_110,Data Science Intern DataBridge Python:0.70;SQL:0.65;Pandas:0.70;Statistics:0.65 Data & AI,3,0
+job_110,Data Science Intern DataBridge Python:0.70;SQL:0.65;Pandas:0.70;Statistics:0.65 Data & AI,4,0
+job_110,Data Science Intern DataBridge Python:0.70;SQL:0.65;Pandas:0.70;Statistics:0.65 Data & AI,5,0
+job_110,Data Science Intern DataBridge Python:0.70;SQL:0.65;Pandas:0.70;Statistics:0.65 Data & AI,6,1
+job_110,Data Science Intern DataBridge Python:0.70;SQL:0.65;Pandas:0.70;Statistics:0.65 Data & AI,7,0
+job_110,Data Science Intern DataBridge Python:0.70;SQL:0.65;Pandas:0.70;Statistics:0.65 Data & AI,8,1
+job_110,Data Science Intern DataBridge Python:0.70;SQL:0.65;Pandas:0.70;Statistics:0.65 Data & AI,9,0
+job_110,Data Science Intern DataBridge Python:0.70;SQL:0.65;Pandas:0.70;Statistics:0.65 Data & AI,10,0

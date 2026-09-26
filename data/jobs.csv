@@ -1,0 +1,11 @@
+job_id,title,company,required_skills,min_experience_years,category
+101,Junior Data Scientist,TechNova,Python:0.80;SQL:0.75;Machine Learning:0.80;Pandas:0.75,1,Data & AI
+102,Data Analyst,InsightWorks,Excel:0.80;SQL:0.75;Power BI:0.80;Data Analysis:0.75,1,Analytics
+103,Java Backend Developer,CodeCraft,Java:0.80;Spring Boot:0.75;SQL:0.70;REST API:0.75,2,Software
+104,Frontend Developer,WebSphere,HTML:0.75;CSS:0.75;JavaScript:0.80;React:0.80,1,Software
+105,ML Engineer,AI Labs,Python:0.85;Machine Learning:0.85;TensorFlow:0.80;NLP:0.75,2,Data & AI
+106,BI Analyst,MarketPulse,Excel:0.80;SQL:0.75;Power BI:0.80;Tableau:0.70,1,Analytics
+107,Cloud Developer,CloudCore,Java:0.70;AWS:0.80;Docker:0.75;Git:0.80,2,Cloud
+108,NLP Data Scientist,LanguageAI,Python:0.80;NLP:0.80;Machine Learning:0.75;SQL:0.70,1,Data & AI
+109,Full Stack Developer,BuildFast,JavaScript:0.75;React:0.80;Node.js:0.75;MongoDB:0.70;Git:0.75,2,Software
+110,Data Science Intern,DataBridge,Python:0.70;SQL:0.65;Pandas:0.70;Statistics:0.65,0,Data & AI

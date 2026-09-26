@@ -1,0 +1,11 @@
+candidate_id,name,verified_skills,experience_years,education,availability
+1,Aarav Sharma,Python:0.92;SQL:0.85;Machine Learning:0.88;Pandas:0.90;Git:0.80,2,B.Tech Computer Science,Immediate
+2,Diya Verma,Python:0.86;SQL:0.78;Power BI:0.91;Excel:0.95;Data Analysis:0.89,1,B.Sc Data Science,15 days
+3,Rohan Mehta,Java:0.93;Spring Boot:0.90;SQL:0.82;Git:0.88;REST API:0.91,3,B.Tech Information Technology,Immediate
+4,Ananya Singh,Python:0.80;HTML:0.88;CSS:0.86;JavaScript:0.91;React:0.89,2,B.Tech Computer Science,30 days
+5,Kabir Gupta,Python:0.89;TensorFlow:0.87;Machine Learning:0.94;NLP:0.90;SQL:0.76,3,B.Tech Artificial Intelligence,Immediate
+6,Meera Iyer,Excel:0.92;SQL:0.84;Power BI:0.88;Data Analysis:0.90;Tableau:0.82,2,B.Com,15 days
+7,Arjun Kapoor,Java:0.84;Python:0.81;AWS:0.86;Docker:0.83;Git:0.91,4,B.Tech Computer Science,Immediate
+8,Ishita Rao,Python:0.91;SQL:0.88;Pandas:0.93;Statistics:0.87;Machine Learning:0.82,2,B.Sc Statistics,30 days
+9,Vivaan Malhotra,JavaScript:0.90;React:0.92;Node.js:0.89;MongoDB:0.85;Git:0.88,3,B.Tech Software Engineering,Immediate
+10,Sara Khan,Python:0.84;SQL:0.80;NLP:0.86;Machine Learning:0.85;Communication:0.92,1,B.A. Economics,15 days
